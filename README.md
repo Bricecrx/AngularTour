@@ -1,2 +1,0 @@
-# AngularTour
-Angular tutorial
